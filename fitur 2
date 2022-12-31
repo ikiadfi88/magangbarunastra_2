@@ -1,0 +1,3 @@
+print("\n=====SELAMAT DATANG DI KONVERSI FARENHEIT KE KELVIN====\n")
+#Farenheit ke Kelvin
+print("-----KONVERSI DARI FARENHEIT KE KELVIN-----")
